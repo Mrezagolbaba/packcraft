@@ -95,7 +95,7 @@ To contribute to this project:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/packcraft.git
+git clone https://github.com/Mrezagolbaba/packcraft.git
 ```
 
 2. Install dependencies
